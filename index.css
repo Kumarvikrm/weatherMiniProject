@@ -12,7 +12,7 @@ body{
   height: 100vh; 
 }
 .card{
-  width: 100%;
+  width: 85%;
   max-width: 470px;
   background: linear-gradient(130deg, #1af1b8, #7a6fc3);
   color: #fff;
@@ -20,6 +20,15 @@ body{
   padding: 40px 35px;
   border-radius: 20px;
   text-align: center;
+}
+.mainHeading{
+  font-size: 3em;
+  background: linear-gradient(to left, hsl(312, 95%, 42%), #ecb43b); 
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; 
+  text-shadow: 2px 2px 5px rgba(87, 85, 85, 0.3);
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 14px;
 }
 .search{
   width: 100%;
