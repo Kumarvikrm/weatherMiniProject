@@ -5,14 +5,14 @@
   box-sizing: border-box;
 }
 body{
-  /* background-color: #9cb0be;  */
+  background-color: #9cb0be; 
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; 
+  /* height: 100vh;  */
 }
 .card{
-  width: 85%;
+  width: 90%;
   max-width: 470px;
   background: linear-gradient(130deg, #1af1b8, #7a6fc3);
   color: #fff;
